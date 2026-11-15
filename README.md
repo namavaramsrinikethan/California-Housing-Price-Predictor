@@ -1,6 +1,14 @@
 # California Housing Price Predictor
 Maincrafts Technology | AI/ML Internship Task 1 | N. Srinikethan
 
+## 🚀 Live Demo
+
+Try the interactive California Housing Price Predictor:
+
+[Launch Streamlit Application](https://california-housing-pricing-predictor.streamlit.app/)
+
+Enter housing characteristics to generate real-time predictions using the trained Linear Regression model.
+
 A linear regression model predicting historical California census block-group median house values. The notebook includes EDA, median imputation, an 80/20 split (seed 42), a mean baseline and residual diagnostics.
 
 | Test metric | Linear regression | Mean baseline |
